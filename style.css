@@ -1,0 +1,66 @@
+body {
+    background-color: #121416;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+#header {
+    margin-bottom: 30px;
+}
+
+#header p {
+    margin-bottom: 40px;
+}
+
+#header a {
+    color: white;
+}
+
+#header a:hover {
+    opacity: 80%;
+}
+
+#header br {
+    margin-bottom: 30px;
+}
+
+fieldset {
+    display: inline-block;
+}
+
+.optionDiv {
+    display: inline-table;
+}
+
+#result {
+    border: 1px gray solid;
+    padding: 10px;
+    font-family: 'Times New Roman', serif;
+}
+
+.noMP {
+    margin: 0;
+    padding: 0;
+}
+
+.messageHeader {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.authorName {
+    font-weight: bold;
+}
+
+.date {
+    font-family: 'Arial', sans-serif;
+    font-size: 80%;
+}
+
+.dateMargin {
+    margin-left: 20px;
+}
+
+.headerMargin {
+    margin-top: 30px;
+}
